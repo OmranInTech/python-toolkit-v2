@@ -1,3 +1,5 @@
+#pdf_merger
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PyPDF2 import PdfMerger, PdfReader, PdfWriter
