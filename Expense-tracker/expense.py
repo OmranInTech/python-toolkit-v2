@@ -1,3 +1,5 @@
+#expense 
+
 import sqlite3
 
 # Connect to database (or create if not exists)
