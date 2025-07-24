@@ -1,4 +1,4 @@
-# youtube_downloader.py
+# youtube_downloader
 
 from pytube import YouTube
 import os
