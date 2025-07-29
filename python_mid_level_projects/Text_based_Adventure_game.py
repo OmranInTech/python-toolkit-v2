@@ -1,3 +1,6 @@
+#text based adventures game 
+
+#define functions for the game 
 def intro():
     print("Welcome to the Adventure Game!")
     print("You find yourself in a dark room with two doors.")
@@ -84,5 +87,6 @@ def main():
             print("I don't understand that. Please choose 'dungeon' or 'treasure'.")
             main()
 
+#Run the game 
 if __name__ == "__main__":
     main()
