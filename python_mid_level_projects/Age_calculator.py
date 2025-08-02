@@ -1,5 +1,9 @@
+#age_calcualtor
+
+#import
 import datetime
 
+#functtion for brithdate
 def age_cal(birthdate):
     # Convert the input string into a date object
     birth_date = datetime.datetime.strptime(birthdate, "%Y-%m-%d")
